@@ -1,15 +1,14 @@
-# 🧹 DataScrub: Text Preprocessor 🧹
+# 🧹 DataScrub: Text Preprocessor
 
-Welcome to our Data Science utility tool! 🚀
-This is a smart Python-based program built to clean messy text data, remove unwanted symbols, and fix spacing so the data is ready for AI models.
+A smart, efficient Python utility designed to clean and format raw text data, preparing it seamlessly for Artificial Intelligence and Machine Learning models.
 
-**Built for the Culling Games 2026!** 🏆
+### 🚀 Key Features
+* **Data Cleaning:** Automatically removes unwanted symbols, special characters, and noise from messy datasets.
+* **Smart Formatting:** Fixes spacing issues and standardizes text structure for uniformity.
+* **AI-Ready:** Optimizes raw data to ensure high accuracy and performance when fed into ML algorithms.
 
-### ⚔️ Team: The Neural Knights ⚔️
-* 👑 **Bhagyashri Gawali** (Captain & Lead Developer) 👩‍💻
-* 🛡️ **Anushka** (Logic Architect)
-* 🛡️ **Payal** (QA & Tester)
-* 🛡️ **Prashant** (Data Researcher)
-* 🛡️ **Sneha** (Data Researcher)
+### 🛠️ Tech Stack
+* Python
 
-Clean data is good data! ✨
+---
+**Developed by:** Bhagyashri Yogesh Gawali
